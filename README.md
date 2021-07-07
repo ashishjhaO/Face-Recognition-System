@@ -7,6 +7,7 @@ This project requires **Python** and the following Python libraries installed:
 
 - [OpenCV](https://opencv.org/)
 - [scikit-learn](https://scikit-learn.org/)
+- [NumPy](http://www.numpy.org/)
 
 You can either import KNN algorithm from sklearn or can use the one we created in the template code.
 
