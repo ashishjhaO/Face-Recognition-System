@@ -21,7 +21,7 @@ Template code is provided in the `face_recogniser.py` and `Face_Recognition.py`.
 In a terminal or command window, navigate to the top-level project directory (that contains this all the files) and run one of the following commands:
 
 ```bash
-python Twitter_Sentimental_Model.py
+python face_recogniser.py
 ```  
 or open with Jupyter Lab
 ```bash
